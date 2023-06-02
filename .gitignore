@@ -1,0 +1,4 @@
+*.pt
+/best_openvino_int8_model
+/best_openvino_model
+/datasets/val
